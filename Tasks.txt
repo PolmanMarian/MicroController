@@ -1,0 +1,29 @@
+Polman Marian
+
+Documentația-Simulări Active
+
+-Instruction Decoder
+-Registers
+-Program_Rom
+
+
+Nedelcu Ioan-Andrei
+
+Sintetizările-Simulări Active
+
+-Alu
+-Program_Flow_Control
+-Numărător_binar+Decoder_clock
+-Carry_Zero_flags
+-Mux_Alu
+
+
+
+Aport Egal
+-Program Counter
+
+Webografie
+-Monostabil
+-Display
+
+Cand s-au facut simulări fiecare a adus ajustări mai mari sau mai mici, depinde de caz.
